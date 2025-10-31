@@ -13,4 +13,4 @@ github文档：https://github.com/RiderTimeDecade/py-xiaozhi.git
 # 用VScode打开MCP连接软件的整个项目
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6c09d939-333c-435c-958a-5bc6a9345536" />
 
-然后将此项目中的 xiaozhiMCP.py替换掉项目中原有的文件
+然后将此项目中的 xiaozhiMCP.py替换掉项目中原有的文件Windows+OPEN_API.py
