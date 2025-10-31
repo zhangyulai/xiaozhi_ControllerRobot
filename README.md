@@ -4,7 +4,7 @@
 # 首先下载MCP连接软件：
 小智Ai_MCP_操控PC.exe软件  
 参考网站：https://kcn80f4hacgs.feishu.cn/wiki/RTaHwEOp8iu6ACkXbrNcJ4GMnVg?from=from_copylink  
-输入小智AI的MCP连接编号
+输入小智AI的MCP接入点绑定小智AI
 
 # 下载py-xiaozhi
 官方文档：https://huangjunsen0406.github.io/py-xiaozhi/  
